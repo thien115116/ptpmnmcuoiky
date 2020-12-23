@@ -1,0 +1,36 @@
+/*
+Theme Name: Open Shop
+Theme URI: https://themehunk.com/product/open-shop-ecommerce-theme/
+Author: ThemeHunk
+Author URI: https://www.themehunk.com
+Description: Open shop is a fast and responsive shopping WordPress theme with deeply integration of Woocommerce plugin. Best suited for furniture, grocery, clothing, electronic, food, home appliances site, gadget store, jewellery shop, fashion shop and decorative stores , you can create any type of ecommerce website by using it. It is also RTL ready. It contains multiple widgets options and layouts, Some highlighted features are Advance product search, Multiple Hero slider layouts, Product carousel , Product carousel with tabbed category filter, Woo Category slider, Product list layout, Top header with three layouts, Ribbon section, Call to Action section, About Us widget, Blog post widget slider, Footer bottom with three layouts. Open shop is best theme for your next website, check it demos: https://themehunk.com/wp-themes/open-shop/
+Version: 1.1.9
+Requires at least: 4.5
+Tested up to: 5.5.1
+Requires PHP: 5.6
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: open-shop
+Tags: e-commerce, blog, grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-image-header, featured-images, custom-header, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/ 
+@font-face{
+  font-family: 'Roboto-Bold';
+  src: url('third-party/fonts/site-font/Roboto-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Roboto-Medium';
+  src: url('third-party/fonts/site-font/Roboto-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Roboto-Regular';
+  src: url('third-party/fonts/site-font/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
